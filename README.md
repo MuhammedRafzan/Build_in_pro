@@ -3,7 +3,8 @@
 campus build in project  by Tinkerhub.
 Bridging Communication Gaps Using Machine Learning & Computer Vision
 
-Introduction 
+Introduction <img width="1536" height="1024" alt="ChatGPT Image Jan 3, 2026, 08_42_23 PM" src="https://github.com/user-attachments/assets/6f70589e-5aa5-4feb-b12d-85c1dbc7d771" />
+
 Sign language is a primary mode of communication for millions of hearing- and speech-impaired individuals worldwide. However, the lack of widespread understanding of sign language creates a significant communication barrier between differently-abled individuals and the general population. This project presents an Intelligent Sign Language Recognition System that automatically recognizes hand gestures and translates them into readable text in real time.
 The system integrates computer vision, hand landmark detection, and machine learning classification techniques to interpret sign language gestures using a standard webcam. By eliminating the need for specialized hardware, this solution provides a cost-effective, accessible, and scalable approach to assistive communication. The project demonstrates how AI can be applied to solve real-world social problems while maintaining efficiency and usability.
 
