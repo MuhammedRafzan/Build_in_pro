@@ -7,7 +7,7 @@ Introduction
 Sign language is a primary mode of communication for millions of hearing- and speech-impaired individuals worldwide. However, the lack of widespread understanding of sign language creates a significant communication barrier between differently-abled individuals and the general population. This project presents an Intelligent Sign Language Recognition System that automatically recognizes hand gestures and translates them into readable text in real time.
 The system integrates computer vision, hand landmark detection, and machine learning classification techniques to interpret sign language gestures using a standard webcam. By eliminating the need for specialized hardware, this solution provides a cost-effective, accessible, and scalable approach to assistive communication. The project demonstrates how AI can be applied to solve real-world social problems while maintaining efficiency and usability.
 
-🧩 Problem Definition
+ Problem Definition
 Despite advancements in assistive technologies, communication between sign language users and non-signers remains a challenge due to:
 Limited awareness and understanding of sign language
 Dependency on human interpreters
