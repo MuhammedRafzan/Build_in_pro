@@ -15,7 +15,7 @@ High cost of hardware-based gesture recognition systems
 Lack of real-time, software-only solutions
 There is a strong need for an intelligent, low-cost, real-time system that can accurately interpret sign language gestures and convert them into understandable text.
 
-💡 Proposed Solution
+Proposed Solution
 The proposed system is a real-time sign language recognition application that:
 Captures live hand gestures using a webcam
 Detects and tracks hand landmarks using computer vision
@@ -24,14 +24,14 @@ Classifies gestures using trained machine learning models
 Displays the corresponding sign as text output
 This approach provides a non-intrusive, hardware-independent, and efficient communication aid.
 
-🎯 Objectives
+Objectives
 To design a real-time sign language recognition system
 To apply machine learning techniques for gesture classification
 To improve accessibility for hearing- and speech-impaired individuals
 To demonstrate practical use of AI in assistive technology
 To create a scalable platform for future enhancements
 
-🧠 Technologies Used
+ Technologies Used
 Programming & Libraries
 Python – Core programming language
 OpenCV – Video capture and image processing
@@ -45,7 +45,7 @@ Model training, validation, and testing
 Interface (if applicable)
 Streamlit / Tkinter – Interactive user interface
 
-🏗️ System Architecture
+System Architecture
 The system follows a modular architecture:
 Input Module
 Captures real-time video using a webcam
@@ -67,11 +67,11 @@ Extracted features are fed into the ML model
 The model predicts the gesture class
 Recognized sign is displayed as text in real time
 
-✨ Key Features
-✔ Real-time sign language recognition
-✔ No additional hardware required
-✔ Accurate hand landmark detection
-✔ Lightweight and fast execution
-✔ User-friendly and interactive interface
-✔ Extendable gesture dataset
-✔ Suitable for academic and real-world scenarios
+ Key Features
+ Real-time sign language recognition
+No additional hardware required
+Accurate hand landmark detection
+Lightweight and fast execution
+User-friendly and interactive interface
+Extendable gesture dataset
+ Suitable for academic and real-world scenarios
